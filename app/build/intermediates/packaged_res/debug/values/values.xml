@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MuntasirMeah_SnackbarChallenge</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="false_button">False</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_text">Canberra is the capital of Australia.</string>
+    <string name="true_button">True</string>
+    <style name="Base.Theme.MuntasirMeah_SnackbarChallenge" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MuntasirMeah_SnackbarChallenge" parent="Base.Theme.MuntasirMeah_SnackbarChallenge"/>
+</resources>
